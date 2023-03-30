@@ -1,0 +1,10 @@
+Idee per non dimenticarcele:
+  - 
+  -
+  -
+  -
+  
+  
+ Production:
+  -railway.com
+  - Magari next.js
