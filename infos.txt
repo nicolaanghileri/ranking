@@ -1,10 +1,10 @@
 Idee per non dimenticarcele:
-  - 
-  -
-  -
-  -
+  - Si può recensire in base alla località
+  - Chi recensisce ha un punteggio in base a quando i  suoi gusti rispettano la media -> (da cui detraggo che) chi recensice può avanzare di livello ed avere un badg e chi viene recensito può vantarsene
+  - Ci saranno tornei ai quali ci si può iscrivere
+  - Di default tutte quelle con un septum sono 10, ergo sono di cavallo :)
   
   
  Production:
-  -railway.com
+  - railway.app
   - Magari next.js
